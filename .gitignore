@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# OS files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Vector store (optional)
+vectorstore/

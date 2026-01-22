@@ -1,0 +1,35 @@
+# LangChain (RAG Framework)
+langchain
+langchain-community
+langchain-core
+
+# PDF Processing
+pypdf
+
+# Embeddings
+sentence-transformers
+langchain-huggingface
+
+# Vector Store
+faiss-cpu
+
+# Tokenization
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+tqdm
+
+# UI
+streamlit
+
+# Generative AI (Local / HF)
+transformers
+accelerate
+torch
+
+# Gemini AI (Google Generative AI)
+google-generativeai
+langchain-google-genai
