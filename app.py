@@ -64,7 +64,7 @@ if uploaded_files:
 
         # Gemini LLM
         llm = ChatGoogleGenerativeAI(
-            model="gemini-2.5-flash-lite",
+            model="gemini-1.5-flash",
             temperature=0.3
         )
 
